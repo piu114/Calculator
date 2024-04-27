@@ -1,2 +1,3 @@
 # Calculator
- a simple begineer friendly web based calculator.
+ The Online Calculator Project is a web application designed to provide users with a versatile and intuitive tool for performing mathematical computations conveniently within their browsers. Developed using a combination of JavaScript for functionality, HTML for structure, and CSS for styling, this calculator offers a seamless user experience across various devices and platforms.
+ The application is built with a responsive layout, ensuring optimal viewing and interaction experiences on desktops, tablets, and smartphones alike. Users can access the calculator from any device without compromising functionality or usability and it supports a wide range of mathematical operations, including addition, subtraction, multiplication, division, exponentiation, and more. Advanced functions such as square root, percentage calculations, and memory functions enhance its utility for diverse mathematical needs.
